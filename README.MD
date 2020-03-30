@@ -1,6 +1,6 @@
-#Proyecto de la version 11 de la semana Omnistack  
+# Proyecto de la version 11 de la semana Omnistack  
 
 
-#Creditos:
+# Creditos:
 
     https://rocketseat.com.br/
